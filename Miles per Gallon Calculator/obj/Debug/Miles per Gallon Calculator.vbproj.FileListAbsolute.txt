@@ -1,0 +1,12 @@
+C:\Users\Rex\Desktop\VisualBaics\3\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.exe.config
+C:\Users\Rex\Desktop\VisualBaics\3\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.exe
+C:\Users\Rex\Desktop\VisualBaics\3\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.pdb
+C:\Users\Rex\Desktop\VisualBaics\3\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.xml
+C:\Users\Rex\Desktop\VisualBaics\3\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.vbprojAssemblyReference.cache
+C:\Users\Rex\Desktop\VisualBaics\3\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles_per_Gallon_Calculator.Form1.resources
+C:\Users\Rex\Desktop\VisualBaics\3\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles_per_Gallon_Calculator.Resources.resources
+C:\Users\Rex\Desktop\VisualBaics\3\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.vbproj.GenerateResource.cache
+C:\Users\Rex\Desktop\VisualBaics\3\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Rex\Desktop\VisualBaics\3\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.exe
+C:\Users\Rex\Desktop\VisualBaics\3\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.xml
+C:\Users\Rex\Desktop\VisualBaics\3\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.pdb
